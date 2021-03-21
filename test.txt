@@ -1,0 +1,17 @@
+ tanggalLahir tgl1 = {10, "january", 1995};
+    tanggalLahir tgl2 = {8, "april", 1995};
+    tanggalLahir tgl3 = {3, "july", 1997};
+    tanggalLahir tgl4 = {21, "maret", 1996};
+    tanggalLahir tgl5 = {19, "Oktober", 1995};
+
+    alamat almt1 = {"Prabu Alam", 21, "Bekasi", "jawa Barat"};
+    alamat almt2 = {"Istana Anyar", 14, "Bekasi", "jawa Barat"};
+    alamat almt3 = {"Narogong", 34, "Bekasi", "jawa Barat"};
+    alamat almt4 = {"Rawa Lumbu", 32, "Bekasi", "jawa Barat"};
+    alamat almt5 = {"Pondok Gede", 12, "Jakarta Timur", "DKI Jakarta"};
+
+    Mhs andre = {
+        201522031,
+        "Andre Syahreza",
+        almt1,
+    };
